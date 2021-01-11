@@ -10,16 +10,16 @@ There are options for subdomain enumeration and port scanning too. The *complete
 1.[pip3](https://pip.pypa.io/en/stable/installing/#) 
 
 
-2.Beautifulsoup
+2.[Beautifulsoup](https://pypi.org/project/beautifulsoup4/)
 
 
-3.Flask
+3.[Flask](https://pypi.org/project/Flask/)
 
 
-4.wkhtmltopdf
+4.[wkhtmltopdf](https://pypi.org/project/wkhtmltopdf/)
 
 
-5.request module
+5.[requests module](https://pypi.org/project/requests/)
 
 
 6.socket module
