@@ -30,6 +30,12 @@ There are options for subdomain enumeration and port scanning too. The *complete
 
 Please install all of the above for smooth functioning of the frameowrk.
 
+**Setup**
+
+1.Install the dependencies.
+
+2.Run  ` python3 index.py `
+
 **Developed by**
 
 
